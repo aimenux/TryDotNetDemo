@@ -1,3 +1,5 @@
+![.NET](https://github.com/aimenux/TryDotNetDemo/workflows/.NET/badge.svg)
+
 # TryDotNetDemo
 
 This repository is intended to demonstrate building interactive C# code using [Try.Net](https://github.com/dotnet/try) library.
