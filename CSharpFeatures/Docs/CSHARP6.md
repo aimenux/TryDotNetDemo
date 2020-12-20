@@ -15,6 +15,6 @@ The goal of this section is to demonstrate some C# 6 features.
 ---
 
 <div style="display: flex; justify-content: space-between">
-  <a href="../README.md"> ⬅ Back To Home </a>
+  <a href="../../README.md"> ⬅ Back To Home </a>
   <a href="./CSHARP7.md"> ➡ Next </a>
 </div>
